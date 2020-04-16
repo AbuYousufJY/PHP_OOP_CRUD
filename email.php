@@ -16,13 +16,7 @@
         $model = new Model();
         $id = $_REQUEST['id'];
         $read = $model->read($id);
-
-        echo $to=  $read['email'];
-
-
-
-
-
+        $to=  $read['email'];
 
         
       ?>
