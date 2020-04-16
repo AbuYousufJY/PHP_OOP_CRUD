@@ -41,7 +41,15 @@
           </div>
         </div>
 
+       <div class="row">
+          <div class="col-md-12 text-center">
+         <!-- <a href="Records.php" class="btn btn-primary text-center">Read</a> -->
+              <a type="button" href="index.php" style="margin-top: 30px;" class="btn btn-primary col-md-3 mx-auto">Insert Record</a>
+              <a type="button" href="Records.php" style="margin-top: 30px;" class="btn btn-info  col-md-3 mx-auto">Show Records</a>
+    
 
+          </div>
+       </div>
 
 
       </div>
